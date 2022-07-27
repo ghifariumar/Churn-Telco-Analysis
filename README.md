@@ -175,8 +175,6 @@ Streaming service is not predictive for churn
 
 Based on the classification report , we could conclude that our model could help telco company in filtering customers tendency of churning. 
 
-we could predict correctly .... % of churning.
-
 with this insights obtained from the model, company needs to take the right approach towards customer that has high probabilty of churning. The right approach determines whether the customer will or will not churn. 
 
 Explanatory data analysis that are done reveal that there are several factors that affects customer churn. And from the condition that we experience, these are the things that could be done to improve the company churning rate. 
@@ -210,9 +208,9 @@ Based on the simple calculation performed above we could conclude that we could 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/99155979/179441101-52a1195c-4bc5-424d-8b60-651b8456931b.png">
 
     - Retention Cost Wasted
-      $80 * 147 = $11,760
+      $80 * 148 = $11,760
     - Acquiring Cost needed to recover lost customer
-      $300 * 148 = $44,400
+      $300 * 147 = $44,400
     - Without model
       (227 + 148 + 147 + 885) * $80 = $112,800
     - Saving
